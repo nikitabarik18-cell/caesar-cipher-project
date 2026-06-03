@@ -10,7 +10,7 @@ I built this project to practice my coding fundamentals, get comfortable working
 * **Case & Symbol Protection:** Keeps spaces, numbers, and punctuation exactly as they are while only modifying alphabetical characters.
 
 ## 🛠️ Built With
-* **Language:** [Insert your language here, e.g., Python / JavaScript / C++]
+* **Language:** python
 * **Editor:** VS Code
 * **Version Control:** Git & GitHub
 
