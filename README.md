@@ -5,7 +5,7 @@ Welcome to my very first programming project! This is a simple command-line appl
 I built this project to practice my coding fundamentals, get comfortable working in **VS Code**, and learn how to use **Git & GitHub** for version control.
 
 
-## DEMO
+## **DEMO **
 <img width="1419" height="944" alt="Screenshot 2026-06-03 205049" src="https://github.com/user-attachments/assets/496a2640-9987-4965-9356-9b73b279aedb" />
 
 
